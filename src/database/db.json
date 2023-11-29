@@ -1,68 +1,68 @@
 {
   "application": {
-    "name": "The wedding of Saiful & Cindy",
-    "description": "The wedding of Saiful & Cindy. Selasa, 16 Mei 2023",
+    "name": "The wedding of Ghifari & Adelia",
+    "description": "The wedding of Ghifari & Adelia. Minggu, 03 Desember 2023",
     "version": "1.0.0"
   },
   "wedding": {
     "akad": {
-      "tanggal": "Senin, 15 Mei 2023",
+      "tanggal": "Sabtu, 02 Desember 2023",
       "jam": "08.00 WIB - Selesai",
       "lokasi": "Kediaman mempelai wanita",
-      "alamat": "Jl. H. Nurleman RT. 002 RW. 003, Kel. Benda Baru, Kec. Pamulang, Tangerang Selatan",
+      "alamat": "Jl. Lavien RT. 005 RW. 001, Kel. Naevis, Kec. Margaasih, Bandung",
       "gmaps": {
-        "link": "https://maps.app.goo.gl/1kM9KC9m7d477zxD9",
-        "iframeSrc": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d991.3727501079445!2d106.71945762812459!3d-6.330370382891928!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNsKwMTknNDkuOSJTIDEwNsKwNDMnMTEuOSJF!5e0!3m2!1sid!2sid!4v1681882927364!5m2!1sid!2sid"
+        "link": "https://maps.app.goo.gl/dydqUn8nikWpEw9L6",
+        "iframeSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63366.950327561804!2d107.561160776661!3d-6.957975121902737!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68ef4115d2c0bf%3A0x401e8f1fc28c5b0!2sMargaasih%2C%20Kec.%20Margaasih%2C%20Kabupaten%20Bandung%2C%20Jawa%20Barat!5e0!3m2!1sid!2sid!4v1701285759969!5m2!1sid!2sid"
       }
     },
     "resepsi": {
-      "tanggal": "Selasa, 16 Mei 2023",
+      "tanggal": "Minggu, 03 Desember 2023",
       "jam": "09.00 WIB - Selesai",
       "lokasi": "Kediaman mempelai wanita",
-      "alamat": "Jl. H. Nurleman RT. 002 RW. 003, Kel. Benda Baru, Kec. Pamulang, Tangerang Selatan",
+      "alamat": "Jl. Lavien RT. 005 RW. 001, Kel. Naevis, Kec. Margaasih, Bandung",
       "gmaps": {
-        "link": "https://maps.app.goo.gl/1kM9KC9m7d477zxD9",
-        "iframeSrc": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d991.3727501079445!2d106.71945762812459!3d-6.330370382891928!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNsKwMTknNDkuOSJTIDEwNsKwNDMnMTEuOSJF!5e0!3m2!1sid!2sid!4v1681882927364!5m2!1sid!2sid"
+        "link": "https://maps.app.goo.gl/dydqUn8nikWpEw9L6",
+        "iframeSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63366.950327561804!2d107.561160776661!3d-6.957975121902737!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68ef4115d2c0bf%3A0x401e8f1fc28c5b0!2sMargaasih%2C%20Kec.%20Margaasih%2C%20Kabupaten%20Bandung%2C%20Jawa%20Barat!5e0!3m2!1sid!2sid!4v1701285759969!5m2!1sid!2sid"
       }
     },
     "mempelai": {
       "pria": {
-        "namaDepan": "Saiful",
-        "namaBelakang": "Akbar",
-        "namaPanggilan": "Ipul",
+        "namaDepan": "Ghifari",
+        "namaBelakang": "Asgaputra",
+        "namaPanggilan": "gip",
         "orangTua": {
-          "keterangan": "Putra ketiga dari keluarga",
-          "pria": "H. Murdih bin Mahir",
-          "wanita": "Mutiyah"
+          "keterangan": "Putra Pertama dari keluarga",
+          "pria": "H. Malik bin Mahir",
+          "wanita": "Marla"
         },
-        "foto": "/assets/images/mempelai/pria.webp",
+        "foto": "/assets/images/mempelai/mpria.jpeg",
         "bg": "rgb(229, 229, 203)"
       },
       "wanita": {
-        "namaDepan": "Cindy",
-        "namaBelakang": "Nadya",
-        "namaPanggilan": "Cindy",
+        "namaDepan": "Adelia",
+        "namaBelakang": "Putri",
+        "namaPanggilan": "Adel",
         "orangTua": {
-          "keterangan": "Putri pertama dari keluarga",
-          "pria": "Cecep Supriyadi",
-          "wanita": "Yanih Nurliani"
+          "keterangan": "Putri kedua dari keluarga",
+          "pria": "H. Raka Rahmadi",
+          "wanita": "Astia"
         },
-        "foto": "/assets/images/mempelai/wanita.webp",
+        "foto": "/assets/images/mempelai/mwanita.jpeg",
         "bg": "rgb(213, 206, 163)"
       }
     }
   },
   "hero": {
-    "banner": "/assets/images/hero/banner.webp"
+    "banner": "/assets/images/hero/banner.jpeg"
   },
   "galeri": [
-    "/assets/images/galeri/galeri-01.webp",
-    "/assets/images/galeri/galeri-02.webp",
-    "/assets/images/galeri/galeri-03.webp",
-    "/assets/images/galeri/galeri-04.webp",
-    "/assets/images/galeri/galeri-05.webp",
-    "/assets/images/galeri/galeri-06.webp",
-    "/assets/images/galeri/galeri-07.webp",
-    "/assets/images/galeri/galeri-08.webp"
+    "/assets/images/galeri/1.jpeg",
+    "/assets/images/galeri/2.jpeg",
+    "/assets/images/galeri/3.jpeg",
+    "/assets/images/galeri/4.jpeg",
+    "/assets/images/galeri/5.jpeg",
+    "/assets/images/galeri/6.jpeg",
+    "/assets/images/galeri/7.jpeg",
+    "/assets/images/galeri/8.jpeg"
   ]
 }
